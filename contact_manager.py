@@ -1,4 +1,3 @@
-# Contact manager application
 contacts = []
 def add_contact(name, phone, email):
     for contact in contacts:
